@@ -10,6 +10,6 @@ This is Stride Not Strike, which means “I'm Stride, not strike”.
 [![](https://img.shields.io/badge/1714368965-%40qq.com-royalblue?style=flat-square)](mailto:1714368965@qq.com)
 
 ## System Environment  
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+[![Windows 10](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 
 </div>
